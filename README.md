@@ -5,3 +5,4 @@ TSUBASA adalah sebuah komunitas bahasa yang berfokus di bidang pendidikan, khusu
 Pembuatan sistem informasi e-learning ini bertujuan membantu para pengajar dalam mendistribusikan materi dan dapat menunjang dalam pengurusan yang bersifat administratif seperti pendataan pengajar dan siswa. Dengan ditunjang internet yang sudah memadai.
 
 ## View
+![image](https://raw.githubusercontent.com/chrisandonugraha/Elearning-Tsuru-Go/main/dasboard.png)
